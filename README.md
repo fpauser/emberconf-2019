@@ -1,4 +1,4 @@
-# Emberconf 2019 talks
+# EmberConf 2019 talks
 
 ## Day 1 (March 19, 2019)
 
